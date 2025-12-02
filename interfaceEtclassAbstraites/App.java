@@ -12,8 +12,6 @@ public class App {
 
 		System.out.println("Construction de PokemonCroisiere : ");
 		PokemonCroisiere pokemonCroisiere = new PokemonCroisiere("keneki ken",21,2);
-		System.out.println(pokemonCroisiere.toString());
-
 
 		// ma liste des pokemon:
 		System.out.println("Ma collection de pokemon :  ");
@@ -26,9 +24,6 @@ public class App {
 		for (Pokemon p : collection) {
     		System.out.println(p);
 		}
-
-
-
 
 	}	
 }
