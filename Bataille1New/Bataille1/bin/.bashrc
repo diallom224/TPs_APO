@@ -1,0 +1,1 @@
+alias java='/usr/11b/jvm/java-21-openjdk-and64/btn/java'
